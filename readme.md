@@ -1,6 +1,8 @@
-IP address: http://52.32.222.3/
+IP address: http://52.33.94.57
 SSH port: 2200
-URL to hosted app: http://52.32.222.3/
+URL to hosted app: http://52.33.94.57
+
+since root is disable please use the user "grader" instead
 
 I did all the required changes in the project detail:
 Create a new user named grader
@@ -30,6 +32,7 @@ Additional installation:
 1. flask-sqlalchemy
 2. pip
 3. git
+
 
 Note:
 google dev disallow me to use OAuth when it originated from IP address
